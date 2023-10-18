@@ -1,0 +1,21 @@
+body{
+    background: #4e8774;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: #a02822;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color: #a02822;
+}
+img{
+    width: 300px;
+    margin-left: 100px;
+}
+.cabecalho{
+    background-color:rgb(71, 117,223);
+    display: flex;
+}
